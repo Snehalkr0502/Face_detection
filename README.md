@@ -15,8 +15,8 @@ Applied multistage image pre-processing and detection pipelines using cv2.cvtCol
 Focused on usability with clean layout management and screen transitions for an intuitive user experience.
 
 ## Tools & Technologies
--Python 
--OpenCV
--Tkinter
--PIL
--Haar Cascades
+- Python 
+- OpenCV
+- Tkinter
+- PIL
+- Haar Cascades
