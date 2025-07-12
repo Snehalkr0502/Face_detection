@@ -1,4 +1,4 @@
-Tools & Technologies: Python, OpenCV, Tkinter, PIL, Haar Cascades
+# Face Detection System
 
 Developed a full-featured GUI-based face detection system using Python and Tkinter for real-time interaction.
 
@@ -13,3 +13,10 @@ Used modular programming and event-driven design to switch between multiple scre
 Applied multistage image pre-processing and detection pipelines using cv2.cvtColor, detectMultiScale, and rectangle overlays.
 
 Focused on usability with clean layout management and screen transitions for an intuitive user experience.
+
+## Tools & Technologies
+-Python 
+-OpenCV
+-Tkinter
+-PIL
+-Haar Cascades
